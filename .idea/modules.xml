@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ExpandableAdapter.iml" filepath="$PROJECT_DIR$/ExpandableAdapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/expandableadapter/expandableadapter.iml" filepath="$PROJECT_DIR$/expandableadapter/expandableadapter.iml" />
+    </modules>
+  </component>
+</project>
